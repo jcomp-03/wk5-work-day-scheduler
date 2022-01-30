@@ -1,3 +1,9 @@
+:root{
+  --timePast: grey;
+  --timePresent: red;
+  --timeFuture: green;
+}
+
 body {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
@@ -72,4 +78,16 @@ textarea{
 
 .spec-border {
   border: solid 2px black;
+}
+
+.time-past {
+  background-color: var(--timePast);
+}
+
+.time-present {
+  background-color: var(--timePresent);
+}
+
+.time-future {
+  background-color: var(--timeFuture);
 }
