@@ -5,5 +5,5 @@ The purpose of this week's challenge is to build out a work day scheduler incorp
 
 Below are a few screenshots which provide visual guide to how the program looks:
 
-#### Screen upon page loading
-![Screen on loading](/assets/images/capture-front-page.JPG)
+#### Gray coloring for past hours, red for present, green for future
+![Workday scheduler](Capture.JPG)
